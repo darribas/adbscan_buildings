@@ -29,8 +29,8 @@ could cite the original paper as:
 
 ## Computational Platform
 
-The analysis in this repository were performed using the `gds_env` platform,
-version 3.0. The project's website is available at:
+The analysis in this repository was performed on machines running the `gds_env` platform,
+v3.0. The project's website is available at:
 
 > [https://github.com/darribas/gds_env](https://github.com/darribas/gds_env)
 
