@@ -1,14 +1,14 @@
 # *Building(s and) Cities*
 
-Repository for the paper "Building(s and) cities: Delineating urban areas with a machine learning algorithm", forthcoming in the Journal of Urban Economics.
+![Cities](boundaries.png)
+
+Repository for the paper "Building(s and) cities: Delineating urban areas with a machine learning algorithm", forthcoming in the *Journal of Urban Economics*.
 
 Authors:
 
 - [Dani Arribas-Bel](https://darribas.org) [`[@darribas]`](https://twitter.com/darribas)
 - [Miquel-Angel Garcia-Lopez](http://gent.uab.cat/miquelangelgarcialopez/ca/content/home) [`[@MiquelAngelGL]`](https://twitter.com/MiquelAngelGL)
 - [Elisabet Viladecans-Marsal](https://elisabetviladecans.wordpress.com/) [`[@eviladecans]`](https://twitter.com/eviladecans)
-
-![Cities](boundaries.png)
 
 ## Citation
 
