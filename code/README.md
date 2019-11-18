@@ -8,3 +8,7 @@ This folder contains the following elements:
   has now been [contributed to
   PySAL](https://github.com/pysal/pysal/blob/master/pysal/lib/cg/alpha_shapes.py)
   and that is the recommended implementation for future use.
+- `tools.py`: collection of utilities written for the project. The module also
+  contains the initial implementation of A-DBSCAN used to generate the
+  published results. A later implementation has been contributed to PySAL and
+  represents the preferrable choice for future use.
