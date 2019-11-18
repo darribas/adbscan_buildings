@@ -42,5 +42,5 @@ then running:
 docker pull darribas/gds:3.0
 ```
 
-You can read more background about platforms like `gds_env` in [Chapter 2](https://geographicdata.science/book/notebooks/01_geospatial_computational_environment.html) of the upcoming book in Geographic Data Science.
+You can read more background about platforms like `gds_env` in [Chapter 1](https://geographicdata.science/book/notebooks/01_geospatial_computational_environment.html) of the upcoming book in Geographic Data Science.
 
