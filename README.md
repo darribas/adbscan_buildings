@@ -4,9 +4,9 @@ Repository for the paper "Building(s and) cities: Delineating urban areas with a
 
 Authors:
 
-- [Dani Arribas-Bel](https://darribas.org) `[[@darribas](https://twitter.com/darribas)]`
-- [Miquel-Angel Garcia-Lopez](http://gent.uab.cat/miquelangelgarcialopez/ca/content/home) `[[@MiquelAngelGL](https://twitter.com/MiquelAngelGL)]`
-- [Elisabet Viladecans-Marsal](https://elisabetviladecans.wordpress.com/) `[[@eviladecans](https://twitter.com/eviladecans)]`
+- [Dani Arribas-Bel](https://darribas.org) [`[@darribas]`](https://twitter.com/darribas)
+- [Miquel-Angel Garcia-Lopez](http://gent.uab.cat/miquelangelgarcialopez/ca/content/home) [`[@MiquelAngelGL]`](https://twitter.com/MiquelAngelGL)
+- [Elisabet Viladecans-Marsal](https://elisabetviladecans.wordpress.com/) [`[@eviladecans]`](https://twitter.com/eviladecans)
 
 ![Cities](boundaries.png)
 
