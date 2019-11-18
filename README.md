@@ -27,4 +27,20 @@ could cite the original paper as:
 }
 ```
 
+## Computational Platform
+
+The analysis in this repository were performed using the `gds_env` platform,
+version 3.0. The project's website is available at:
+
+> [https://github.com/darribas/gds_env](https://github.com/darribas/gds_env)
+
+And you can install the version used for this projec by first installing
+[Docker](https://www.docker.com/) (the community edition, CE, works fine) and
+then running:
+
+```
+docker pull darribas/gds:3.0
+```
+
+You can read more background about platforms like `gds_env` in [Chapter 2](https://geographicdata.science/book/notebooks/01_geospatial_computational_environment.html) of the upcoming book in Geographic Data Science.
 
