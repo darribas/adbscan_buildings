@@ -22,3 +22,4 @@ This folder contains the following elements:
   contains the initial implementation of A-DBSCAN used to generate the
   published results. A later implementation has been contributed to PySAL and
   represents the preferrable choice for future use.
+- `LICENSE`: license file (BSD compatible)
