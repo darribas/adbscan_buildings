@@ -27,6 +27,13 @@ could cite the original paper as:
 }
 ```
 
+## Data
+
+City and employment centre boundary delineations are available as open data
+at:
+
+> [https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136](https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136)
+
 ## Computational Platform
 
 The analysis in this repository was performed on machines running the `gds_env` platform,
