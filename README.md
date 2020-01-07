@@ -31,11 +31,10 @@ could cite the original paper as:
 
 ## Interactive Map
 
-You can explore the city delineations in the interactive map:
+You can explore the city delineations in the interactive map (click on the
+image):
 
-<iframe width="100%" height="520" frameborder="0" src="https://gdsl.carto.com/u/danigdsl/builder/fe01a0ff-f0ee-4df2-ba4a-a46815b87aab/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-[See it in a different windo [here](https://gdsl.carto.com/u/danigdsl/builder/fe01a0ff-f0ee-4df2-ba4a-a46815b87aab/embed)]
+[![Map](map.png)](https://danigdsl.carto.com/builder/fe01a0ff-f0ee-4df2-ba4a-a46815b87aab/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B31.738241084411285%2C-19.36323165893555%5D%2C%22sw%22%3A%5B46.2944086152281%2C9.377002716064455%5D%2C%22center%22%3A%5B39.3944178910168%2C-4.993114471435548%5D%2C%22zoom%22%3A6%7D%7D)
 
 ## Data
 
