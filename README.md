@@ -1,8 +1,10 @@
 # *Building(s and) Cities*
 
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0094119019300944) | [**Working Paper**](https://ieb.ub.edu/en/publication/2019-10-buildings-and-cities-delineating-urban-areas-with-a-machine-learning-algorithm/) | [**Map**](https://gdsl.carto.com/u/danigdsl/builder/fe01a0ff-f0ee-4df2-ba4a-a46815b87aab/embed) | [**Data**](https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136)
+
 ![Cities](boundaries.png)
 
-Repository for the paper "Building(s and) cities: Delineating urban areas with a machine learning algorithm", forthcoming in the *Journal of Urban Economics*.
+Repository for the paper ["Building(s and) cities: Delineating urban areas with a machine learning algorithm"](https://www.sciencedirect.com/science/article/pii/S0094119019300944), forthcoming in the *Journal of Urban Economics*.
 
 Authors:
 
@@ -26,6 +28,14 @@ could cite the original paper as:
   year={\emph{forthcoming}},
 }
 ```
+
+## Interactive Map
+
+You can explore the city delineations in the interactive map:
+
+<iframe width="100%" height="520" frameborder="0" src="https://gdsl.carto.com/u/danigdsl/builder/fe01a0ff-f0ee-4df2-ba4a-a46815b87aab/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+[See it in a different windo [here](https://gdsl.carto.com/u/danigdsl/builder/fe01a0ff-f0ee-4df2-ba4a-a46815b87aab/embed)]
 
 ## Data
 
