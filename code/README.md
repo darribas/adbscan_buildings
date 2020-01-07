@@ -20,6 +20,6 @@ This folder contains the following elements:
   and that is the recommended implementation for future use.
 - `tools.py`: collection of utilities written for the project. The module also
   contains the initial implementation of A-DBSCAN used to generate the
-  published results. A later implementation has been contributed to PySAL and
+  published results. A later implementation has been [contributed to PySAL's `esda` package](https://github.com/pysal/esda/pull/94) and
   represents the preferrable choice for future use.
 - `LICENSE`: license file (BSD compatible)
